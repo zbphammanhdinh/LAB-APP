@@ -10,10 +10,9 @@ header("Expires: Sat, 26 Jul 1997 05:00:00 GMT"); // Date in the past
   </head>
 
   <body>
-
-    <h3>Mã số sinh viên: 17110122</h3>
-    <h3>Phạm Mạnh Đình</h3>
     <div class="container">
+	<h3>Mã số sinh viên: 17110122</h3>
+   	<h3>Phạm Mạnh Đình</h3>
 
   	<div class="row">
   		<div class="col-md-12">
